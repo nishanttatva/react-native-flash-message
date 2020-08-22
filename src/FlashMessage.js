@@ -644,6 +644,7 @@ const styles = StyleSheet.create({
     flexDirection: "row",
   },
   flashLabel: {
+    flex:1,
     flexDirection: "column",
   },
   flashText: {
